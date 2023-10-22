@@ -27,8 +27,8 @@ int main(){
         
     }
     else{
-        printf("ae vedia");
+        printf("Incorrect input");
     }
     
-return -0;
+return 0;
 }
